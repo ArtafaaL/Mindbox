@@ -1,0 +1,12 @@
+E:\MS VS\C#\Mindbox — копия\FigureSettings\bin\Debug\FigureSettings.dll
+E:\MS VS\C#\Mindbox — копия\FigureSettings\bin\Debug\FigureSettings.pdb
+E:\MS VS\C#\Mindbox — копия\FigureSettings\obj\Debug\FigureSettings.csproj.AssemblyReference.cache
+E:\MS VS\C#\Mindbox — копия\FigureSettings\obj\Debug\FigureSettings.csproj.CoreCompileInputs.cache
+E:\MS VS\C#\Mindbox — копия\FigureSettings\obj\Debug\FigureSettings.dll
+E:\MS VS\C#\Mindbox — копия\FigureSettings\obj\Debug\FigureSettings.pdb
+E:\MS VS\C#\Mindbox\FigureSettings\bin\Debug\FigureSettings.dll
+E:\MS VS\C#\Mindbox\FigureSettings\bin\Debug\FigureSettings.pdb
+E:\MS VS\C#\Mindbox\FigureSettings\obj\Debug\FigureSettings.csproj.AssemblyReference.cache
+E:\MS VS\C#\Mindbox\FigureSettings\obj\Debug\FigureSettings.csproj.CoreCompileInputs.cache
+E:\MS VS\C#\Mindbox\FigureSettings\obj\Debug\FigureSettings.dll
+E:\MS VS\C#\Mindbox\FigureSettings\obj\Debug\FigureSettings.pdb
